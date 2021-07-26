@@ -1,0 +1,29 @@
+{
+	"html" : [
+		{
+			"id" : "1",
+			"title" : "HTML",
+			"banner" : "https://muh-fajri.github.io/mastery_app_data/banner/html_banner.png",
+			"desc" : [
+				{
+					"id" : "1",
+					"title" : "Mengenal HTML",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/html_image/html_intro.png",
+					"text_desc" : "HTML singkatan dari HyperText Markup Language merupakan bahasa markup atau penanda yang digunakan untuk membuat struktur tampilan dari halaman web. Halaman web yang hanya menggunakan HTML hanya akan menampilkan teks, gambar, atau yang lainnya dengan apa adanya dan tampilannya akan tampak kurang menarik. HTML terdiri atas tag-tag dalam penyusunannya. Komponen yang ada dalam tag disebut sebagai elemen. Elemen-elemen dasar pada HTML seperti html, head, title dan body."
+				},
+				{
+					"id" : "2",
+					"title" : "Macam-macam Heading",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/html_image/html_heading.png",
+					"text_desc" : "Dalam HTML kita mengenal adanya heading. Heading sendiri merupakan judul pada sebuah halaman atau pada sebuah section. Ada terdapat 6 heading yang ada yaitu h1, h2, h3, h4, h5, dan h6. Sama seperti yang ada pada perangkat lunak pengolah kata, heading-heading ini digunakan untuk membuat judul, subjudul, subsubjudul, dan seterusnya. Tujuan penggunaan heading pada halaman web tentunya untuk memisahkan bagian-bagian halaman berdasarkan tingkat kepentingannya. Heading h1 adalah tingkat yang paling tinggi. Pada gambar, dapat dilihat cara pembuatan heading dan hasil render-nya pada web browser (perambah web)."
+				},
+				{
+					"id" : "3",
+					"title" : "Paragraf dan Break Line",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/html_image/html_paragraph.png",
+					"text_desc" : "Paragraf dalam HTML fungsinya sama seperti pembuatan paragraf pada umumnya. Paragraf ini tersusun atas beberapa kalimat yang padu atau memiliki unsur kesatuan antarkalimatnya. Di HTML, untuk membuat sebuah paragraf, yaitu dengan mengapit konten (baik berupa teks atau gambar) ke dalam tag p (p sendiri singkatan dari paragraph)."
+				}
+			]
+		}
+	]
+}
