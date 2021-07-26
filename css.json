@@ -1,0 +1,29 @@
+{
+	"css" : [
+		{
+			"id" : "1",
+			"title" : "CSS",
+			"banner" : "https://muh-fajri.github.io/mastery_app_data/banner/css_banner.png",
+			"desc" : [
+				{
+					"id" : "1",
+					"title" : "Mengenal CSS",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/css_image/css_intro.png",
+					"text_desc" : "CSS merupakan singkatan dari Cascading Style Sheet salah satu bahasa yang digunakan untuk membuat halaman web. Jika HTML digunakan untuk membuat struktur halaman web, maka CSS digunakan untuk memberikan styling atau membuat struktur tampilan menjadi lebih menarik. Pemberian warna, gambar, pemformatan teks, pengaturan layout halaman, dapat dilakukan dengan CSS ini. Bagian-bagian yang ada pada CSS yaitu selektor dan deklarator. Selektor sendiri dapat menggunakan elemen, class, id, atau atribut yang ada pada HTML. Untuk deklarator terdiri atas dua bagian, property dan value (nilai). Contoh penulisan CSS dapat dilihat pada gambar."
+				},
+				{
+					"id" : "2",
+					"title" : "Penulisan CSS",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/css_image/css_styling.png",
+					"text_desc" : "Penulisan CSS dapat dilakukan dengan tiga cara. Pertama yaitu menuliskannya pada sebuah dokumen dengan memberikan ekstensi .css lalu melakukan link ke dokumen .html. Cara ini dikenal sebagai external style sheet (penulisan style CSS secara eksternal). Yang kedua, membuat tag style di antara tag head pada dokumen HMTL kemudian selanjutnya membuat deklarasi CSS seperti pada penulisan external style sheet. Cara ini dikenal sebagai internal style sheet. Terakhir, menyisipkan sebuah atribut pada elemen HTML apapun dengan nama style kemudian dilanjutkan dengan penulisan deklarasi CSS."
+				},
+				{
+					"id" : "3",
+					"title" : "Selektor dan Deklarator pada CSS",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/css_image/css_selector.png",
+					"text_desc" : "Penulisan CSS sendiri perlu diketahui bahwa terdapat dua bagian utama yang ada yaitu selektor dan deklarator. Cara penulisannya yaitu diawali dengan selektor dan diikuti kurung kurawal ({}). Di dalam kurung kurawal ini dituliskan deklaratornya. Deklarator terdiri dari property dan value. Property dan value ini dipisahkan dengan tanda titik dua (:), dan pada bagian akhir value diakhiri dengan tanda titik koma (;). Seperti yang disinggung pada bagian sebelumnya, penulisan selektor dapat berupa elemen (seperti h1, h2, p, a, i, span, em, dan sebagainya), class (seperti .button, .form, .image, dan sebagainya), id (seperti #header, #sidebar, #article, #footer, dan sebagainya), dan atribut (seperti [type=input], [target=_blank], dan sebagainya). Untuk deklarator yang terdiri dari dua bagian yang berpasangan yang dikenal sebagai property dan value. Property dan value selalu berpasangan dalam menuliskan CSS. Contohnya seperti background-color: red, text-align: center, line-height: 20px, dan sebagainya."
+				}
+			]
+		}
+	]
+}
