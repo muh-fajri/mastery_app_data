@@ -1,0 +1,29 @@
+{
+	"mysql" : [
+		{
+			"id" : "1",
+			"title" : "MySQL",
+			"banner" : "https://muh-fajri.github.io/mastery_app_data/banner/mysql_banner.png",
+			"desc" : [
+				{
+					"id" : "1",
+					"title" : "Mengenal MySQL",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/mysql_image/mysql_intro.png",
+					"text_desc" : "Menurut Wikipedia, MySQL merupakan Relational Database Management System (RDBMS) bersumber terbuka (open source). Nama MySQL merupakan kombinasi dari \"My\" nama anak perempuan co-founder Michael Widenius dan \"SQL\" singkatan dari Structured Query Language. Basis data relasional mengorganisasikan data ke dalam satu atau beberapa tabel dimana tipe datanya yang memiliki kesamaan satu dengan yang lainnya, relasi ini membantu membuat struktur data. SQL merupakan bahasa pemrograman yang digunakan untuk membuat, mengubah dan mengekstrak data dari basis data relasional, termasuk mengatur hak akses pengguna terhadap basis data."
+				},
+				{
+					"id" : "2",
+					"title" : "Komponen Basis Data (Database)",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/mysql_image/mysql_component.png",
+					"text_desc" : "Basis data atau database memiliki komponen-komponen dasar. Komponen tersebut adalah basis data (database) itu sendiri, tabel, record, dan field. Basis data (database) tersusun dari tabel-tabel yang merupakan komponen yang digunakan untuk menampung data-data dari tabel tersebut. Tabel merupakan komponen yang menampung atribut-atribut (field-field) data, seperti id, nama, dan atribut tanggal. Tabel-tabel ini sama seperti tabel yang dikenal pada umumnya yang terdiri dari baris dan kolom. Pada basis data, baris pada sebuah tabel disebut sebagai record dan kolom disebut sebagai field. Setiap tabel harus memiliki satu field yang memiliki kunci primer (primary key). Hal ini dimaksudkan agar data yang ada bersifat unik (tidak ada data dobol atau redundan) dan ini juga untuk memudahkan dalam melakukan query yang melibatkan beberapa tabel sekaligus. Primary key biasanya dimiliki oleh atribut dengan nama \"id\". Record merupakan komponen basis data yang mewakili satu data beserta atribut-atribut yang dimilikinya. Sebagai contoh, tabel dengan nama \"siswa\" memiliki atribut nis, nama, dan alamat. Record yang dimilikinya yaitu data berupa siswa seperti Ahmad, Harun, dan Yahya. Terakhir, field merupakan komponen basis data yang mewakili satu nama atribut. Seperti yang disebutkan, masing-masing nis, nama, dan alamat merupakan tiga buah field yang ada dalam sebuah tabel basis data."
+				},
+				{
+					"id" : "3",
+					"title" : "DDL dan DML dalam Basis Data",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/js_image/mysql_ddl_dml.png",
+					"text_desc" : "Pada basis data dikenal dua buah bahasa SQL yaitu DDL (Data Definition Language) dan DML (Data Manipulation Language). DDL merupakan bahasa SQL yang digunakan untuk membuat dan memodifikasi struktur suatu objek basis data. Perintah yang merupakan DDL yaitu CREATE, ALTER, dan DROP. Untuk DML merupakan bahasa SQL yang digunakan untuk melakukan manipulasi data (memilih, menyimpan, memodifikasi, menghapus, menyimpan, dan memperbaharui data pada database). Perintah yang merupakan DML yaitu SELECT, INSERT, UPDATE, dan DELETE."
+				}
+			]
+		}
+	]
+}
