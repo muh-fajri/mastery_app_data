@@ -20,7 +20,7 @@
 				{
 					"id" : "3",
 					"title" : "DDL dan DML dalam Basis Data",
-					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/js_image/mysql_ddl_dml.png",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/mysql_image/mysql_ddl_dml.png",
 					"text_desc" : "Pada basis data dikenal dua buah bahasa SQL yaitu DDL (Data Definition Language) dan DML (Data Manipulation Language). DDL merupakan bahasa SQL yang digunakan untuk membuat dan memodifikasi struktur suatu objek basis data. Perintah yang merupakan DDL yaitu CREATE, ALTER, dan DROP. Untuk DML merupakan bahasa SQL yang digunakan untuk melakukan manipulasi data (memilih, menyimpan, memodifikasi, menghapus, menyimpan, dan memperbaharui data pada database). Perintah yang merupakan DML yaitu SELECT, INSERT, UPDATE, dan DELETE."
 				}
 			]
