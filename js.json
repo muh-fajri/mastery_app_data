@@ -1,0 +1,29 @@
+{
+	"js" : [
+		{
+			"id" : "1",
+			"title" : "JS",
+			"banner" : "https://muh-fajri.github.io/mastery_app_data/banner/js_banner.png",
+			"desc" : [
+				{
+					"id" : "1",
+					"title" : "Mengenal JavaScript",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/js_image/js_intro.png",
+					"text_desc" : "JavaScript merupakan salah satu bahasa pemrograman yang digunakan dalam pengembangan aplikasi web, atau web pada umumnya. JavaScript berjalan di sisi klien (client side). Bahasa ini digunakan untuk membuat halaman web menjadi lebih atraktif yang bermanfaat untuk meningkatkan pengalaman pengguna (user experience) selama berada di halaman web tersebut. Pada tahap awal, untuk berkenalan dengan JavaScript (dan mencoba menjalankan beberapa perintahnya) cukup dengan membuka web browser dan lakukan inspect element dengan menekan tombol Ctrl + Shift + I, setelah itu silahkan beralih ke tab Console."
+				},
+				{
+					"id" : "2",
+					"title" : "JavaScript Hello World",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/js_image/js_hello_world.png",
+					"text_desc" : "Menuliskan kode pertama JavaScript dapat dilakukan melalui console browser. Contoh perintah console.log(\"Hello World!\"); kemudian diikuti dengan menekan tombol Enter maka akan diberikan output teks pada console dengan tulisan Hello world!. Dengan console ini kita dapat menuliskan perintah-perintah JavaScript tanpa perlu membuat filenya terlebih dahulu. Beberapa perintah seperti operasi aritmatika (+, -, *, /) dapat langsung kita lakukan tanpa perlu melakukan deklarasi atau inisialisasi variabel terlebih dahulu."
+				},
+				{
+					"id" : "3",
+					"title" : "Struktur Program JavaScript",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/js_image/js_structure.png",
+					"text_desc" : "Struktur kode program JavaScript yang sederhana untuk menampilkan teks terdiri dari media output (apakah melalui halaman browser atau melalui console), fungsi yang diikuti tanda kurung, di dalam tanda kurung ini dapat diisikan data string (teks) yang diapit dengan tanda petik tunggal atau ganda. Di akhir baris kode program wajib ditutup dengan tanda titik koma. Contoh penulisan dapat dilihat pada gambar."
+				}
+			]
+		}
+	]
+}
