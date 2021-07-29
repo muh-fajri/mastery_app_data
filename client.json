@@ -1,0 +1,25 @@
+{
+	"client" : [
+		{
+			"id" : "1",
+			"title" : "Client Tools",
+			"banner" : "https://muh-fajri.github.io/mastery_app_data/banner/client_banner.png",
+			"desc" : [
+				{
+					"id" : "1",
+					"tool_name" : "Web Browser",
+					"tool_image" : "https://muh-fajri.github.io/mastery_app_data/client_image/client_tool_browser.png",
+					"image_source" : "https://www.mozilla.org/en-US/firefox/browsers/",
+					"tool_desc" : "Agar dapat melakukan pemrograman yang ditujukan untuk klien, maka kita memerlukan web browser (perambah web) agar dapat melakukan uji program yang telah dibuat. Seperti yang dipahami bahwa web browser merupakan aplikasi yang biasa digunakan untuk menjelajahi internet. Saat menjelajah, apapun yang ditampilkan (teks, gambar, grafik, atau bahkan animasi) ke semuanya ditampilkan menggunakan kode bahasa ditujukan untuk klien. Jadi, apapun yang dilihat tersebut merupakan hasil render browser terhadap bahasa HTML, CSS, dan JavaScript. Salah satu web browser yang umum digunakan adalah Mozilla Firefox. Dalam melakukan uji kompatibilitas, kita memerlukan setidaknya beberapa web browser seperti Mozilla Firefox sendiri, Google Chrome, Microsoft Edge. Untuk pengguna Mac OS dapat menambahkan Safari Web Browser sebagai daftar untuk melakukan pengujian. Pengujian terhadap beberapa web browser juga harus memperhatikan web browser dengan versi lama. Dengan memperhatikan hal ini tentunya kita dapat menentukan tag HTML yang didukung dan vendor prefix pada CSS yang harus digunakan atau tidak. Namun, saat ini kita sudah dapat menikmati kemudahan pengecekan kompatibilitas. Untuk melihat daftar dukungan tag-tag HTML terhadap beberapa versi web browser, dapat mengunjungi website w3schools pada halaman HTML Reference Browser Support (https://www.w3schools.com/tags/ref_html_browsersupport.asp). Dan untuk dukungan vendor prefix melalui halaman CSS Reference Browser Support (https://www.w3schools.com/cssref/css3_browsersupport.asp). Vendor prefix tersebut dapat dimiliki oleh property CSS atau pun value-nya. Catatan: Link yang ada dapat berubah sewaktu-waktu pemilik website w3schools memperbaharui konten web-nya. Vendor prefix: -o- : untuk browser Opera (versi lama). -webkit- : untuk browser Google Chrome, Opera (versi terbaru) dan browser iOS (hampir semua). -moz-: untuk browser Mozilla Firefox. -ms- : untuk browser Microsoft Internet Explorer dan Microsoft Edge."
+				},
+				{
+					"id" : "2",
+					"tool_name" : "Text Editor",
+					"tool_image" : "https://muh-fajri.github.io/mastery_app_data/client_image/client_tool_text_editor.png",
+					"image_source" : "https://code.visualstudio.com/",
+					"tool_desc" : "Text editor merupakan salah satu peralatan mutlak yang harus ada dalam melakukan pemrograman apapun (catatan: beberapa bahasa pemrograman mengharuskan menggunakan text editor tersendiri, dikenal sebagai IDE (Integrated Development Environment / Lingkungan Pengembangan Terintegrasi). Dengan text editor kita dapat menyusun kode program untuk nantinya dijalankan pada platform yang ditujukan. Salah satu text editor yang dapat digunakan sebagai langkah awal mulai pemrograman yaitu Notepad (di Windows), Kate atau Nano (di Linux), atau TextEdit (di MacOS). Untuk penulisan kode program sederhana, text editor tersebut sudah dapat memenuhi kebutuhan. Selain text editor ini, kita dapat menginstal text editor lain jika pemahaman terhadap command / perintah / kode program yang dipelajari sudah cukup baik. Text editor ini juga ada yang berupa tool IDE. Beberapa yang cukup populer yaitu Notepad++, Visual Studio Code (VS Code), Sublime Text, dan Atom Text Editor. Tools ini juga menyediakan fitur autocompletion terhadap kode program yang ditulis. Salah satu manfaat menggunakan kode editor ini dapat memberikan penghematan waktu dalam penulisan kode program."
+				}
+			]
+		}
+	]
+}
