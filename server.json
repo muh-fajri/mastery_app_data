@@ -1,0 +1,32 @@
+{
+	"server" : [
+		{
+			"id" : "1",
+			"title" : "Server Tools",
+			"banner" : "https://muh-fajri.github.io/mastery_app_data/banner/server_banner.png",
+			"desc" : [
+				{
+					"id" : "1",
+					"tool_name" : "Web Server",
+					"tool_image" : "https://muh-fajri.github.io/mastery_app_data/server_image/server_xampp.png",
+					"image_source" : "https://www.apachefriends.org/index.html",
+					"tool_desc" : "Web server merupakan tool yang paling penting agar dapat melakukan pemrograman di sisi server sebab web server inilah yang menjadi tool utamanya. Tanpa web server, pemrograman di sisi server tidak dapat dilakukan. Beberapa contoh web server yaitu Apache Tomcat, Microsoft Windows Server Internet Information Services (IIS), dan nginx. Untuk dapat menjalankan web server, sistem operasi yang digunakan harus menginstalnya terlebih dahulu. Untuk menginstal web server, kita dapat menggunakan paket aplikasi dengan nama XAMPP (Cross Platform, Apache, MySQL, PHP, Phpmyadmin). Dengan menginstal aplikasi tersebut, kita sudah memiliki utilitas yang dapat digunakan untuk pengembangan aplikasi di sisi server."
+				},
+				{
+					"id" : "2",
+					"tool_name" : "Web Browser",
+					"tool_image" : "https://muh-fajri.github.io/mastery_app_data/server_image/server_tool_browser.png",
+					"image_source" : "https://www.mozilla.org/en-US/firefox/browsers/",
+					"tool_desc" : "Melakukan pemrograman di sisi server, kita juga membutuhkan web browser untuk melakukan pengujian program (sama seperti pemrograman di sisi client). Tujuannya, agar kita dapat menguji program dapat berjalan di web browser dengan semestinya atau belum. Untuk itu, disarankan agar melakukan instalasi beberapa web browser yang berbeda."
+				},
+				{
+					"id" : "3",
+					"tool_name" : "Text Editor",
+					"tool_image" : "https://muh-fajri.github.io/mastery_app_data/server_image/server_tool_text_editor.png",
+					"image_source" : "https://code.visualstudio.com/",
+					"tool_desc" : "Text editor, tentunya menjadi syarat yang wajib. Sebab penulisan kode program, kita membutuhkan sebuah text editor (sama seperti di sisi client). Agar dapat mengefisienkan waktu penulisan kode, disarankan menggunakan text editor kompleks seperti IDE Visual Studio Code (VS Code) atau Sublime Text karena mendukung fitur autocompletion yang cukup membantu."
+				}
+			]
+		}
+	]
+}
