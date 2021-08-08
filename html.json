@@ -21,7 +21,25 @@
 					"id" : "3",
 					"title" : "Paragraf dan Break Line",
 					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/html_image/html_paragraph.png",
-					"text_desc" : "Paragraf dalam HTML fungsinya sama seperti pembuatan paragraf pada umumnya. Paragraf ini tersusun atas beberapa kalimat yang padu atau memiliki unsur kesatuan antarkalimatnya. Di HTML, untuk membuat sebuah paragraf, yaitu dengan mengapit konten (baik berupa teks atau gambar) ke dalam tag p (p sendiri singkatan dari paragraph)."
+					"text_desc" : "Paragraf dalam HTML fungsinya sama seperti pembuatan paragraf pada umumnya. Paragraf ini tersusun atas beberapa kalimat yang padu atau memiliki unsur kesatuan antarkalimatnya. Di HTML, untuk membuat sebuah paragraf, yaitu dengan mengapit konten (baik berupa teks atau gambar) ke dalam tag p (p sendiri singkatan dari paragraph). Untuk break line digunakan untuk memindahkan teks ke baris baru namun tetap berada dalam paragraf yang sama. Tag break line ditulis dengan br. Break line merupakan salah satu tag yang tidak memiliki penutup."
+				},
+				{
+					"id" : "4",
+					"title" : "Tag pembuka dan penutup",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/html_image/html_opening_closing_tag.png",
+					"text_desc" : "Pada HTML, kita mengenal yang namanya tag pembuka dan penutup. Tag pembuka diawali dengan penulisan kurung sudut buka, dilanjukan dengan penulisan elemen (p, br, h1, a, dan sebagainya), dan terakhir kurung sudut tutup. Untuk tag penutupnya, sedikit berbeda dengan tag pembuka, pada tag penutup ditambahkan lambang forward slash (/) setelah penulisan elemennya. Tidak semua tag pada HTML memiliki tag penutup, dengan kata lain tag tersebut tidak memiliki konten. Untuk membedakannya dengan tag-tag yang memiliki tag penutup, dapat menambahkan lambang forward slash (/) setelah penulisan elemennya. Contoh tag ini yaitu elemen br, a, input, dan hr."
+				},
+				{
+					"id" : "5",
+					"title" : "Format Teks Tebal",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/html_image/html_b_strong_tag.png",
+					"text_desc" : "Pada pemformatan teks, terdapat 2 elemen yang dapat digunakan untuk membuat teks tebal yaitu b (bold) dan strong. Terdapat sedikit perbedaan dari kedua elemen ini. Untuk elemen b, kita hanya membuat teks menjadi tebal secara visual saja. Untuk elemen strong, selain membuat teks tebal secara visual, juga dapat digunakan sebagai penanda tulisan bagi pengguna tunanetra yang menggunakan screen reader, bahwa teks tersebut merupakan hal yang penting."
+				},
+				{
+					"id" : "6",
+					"title" : "Format Teks Miring",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/html_image/html_italic_em_tag.png",
+					"text_desc" : "Pada pemformatan teks, terdapat 2 elemen yang dapat digunakan untuk membuat tulisan miring yaitu i (italic, untuk penulisan teks miring) dan em (emphasize). Terdapat sedikit perbedaan dari keduanya. Untuk elemen italic, teks menjadi miring secara visual. Untuk elemen em, selain membuat teks tebal secara visual, juga dapat digunakan sebagai penanda tulisan bagi pengguna tunanetra yang menggunakan screen reader, yaitu sebagai penekanan pada pembacaan teksnya."
 				}
 			]
 		}
