@@ -10,6 +10,30 @@
 					"title" : "Mengenal PHP",
 					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/php_image/php_intro.png",
 					"text_desc" : "PHP (PHP: Hypertext Preprocessor) merupakan bahasa pemrograman web yang ditujukan berjalan di server dimana hasilnya berjalan di sisi client atau ditampilkan melalui web browser sebagai halaman web. Dengan seperti itu bahasa PHP ini digunakan untuk membuat halaman web dinamis. Penulisan kode-kode PHP dapat disisipkan di antara kode HTML. File yang terdapat kode php di dalamnya harus disimpan dalam format php."
+				},
+				{
+					"id" : "2",
+					"title" : "Sintaks PHP",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/php_image/php_syntax.png",
+					"text_desc" : "Penulisan sintaks PHP terdapat beberapa bagian yaitu: tag pembuka, perintah output, konten, dan tag penutup. Tag pembuka dimulai dengan lambang kurung sudut buka, diikuti tanda tanya, dan tulisan php. Untuk tag penutup, diawali dengan tanda tanya dan diikuti kurung sudut tutup. Perintah output pada PHP ada beberapa perintah, salah satunya adalah perintah echo. Untuk konten, jika ia berupa teks, maka penulisannya harus diapit tanda petik (baik tanda petik satu atau dua), jika berupa angka maka tanpa tanda petik, dan diakhiri dengan tanda titik koma yang menyatakan akhir dari sebuah statement (pernyataan)."
+				},
+				{
+					"id" : "3",
+					"title" : "Gaya Penulisan PHP",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/php_image/php_writing_style.png",
+					"text_desc" : "Pada PHP, terdapat beberapa cara dalam menuliskan sintaksnya, salah satunya pada submateri Sintaks PHP. Pada bagian ini akan diberikan satu cara lain dalam penulisan sintaknya. Sedikit penjelasan, jika kode yang ditulis terdapat perintah PHP lain (misalnya perintah if, foreach, dan sebagainya) maka pada tag pembuka harus disertakan tulisan php-nya. Tetapi, jika kode yang ditulis hanya dimaksudkan untuk menampilkan output, maka tulisan php dapat diganti dengan lambang sama dengan. Contoh penulisan dapat dilihat pada gambar."
+				},
+				{
+					"id" : "4",
+					"title" : "Komentar pada PHP",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/php_image/php_comment.png",
+					"text_desc" : "Komentar dalam kode PHP merupakan baris yang tidak akan dieksekusi bersamaan dengan kode program. Tujuan penambahan komentar hanya agar program yang ditulis dapat dibaca oleh orang lain ketika ia melihat kode tersebut. Penulisan komentar dapat berupa teks keterangan, atau pun baris kode yang sengaja dibuat agar tidak dieksekusi (mungkin memuat kesalahan pada kode tersebut). Secara umum, komentar yang dibuat digunakan untuk: - Agar orang lain dapat memahami kode yang ditulis, - Mengingatkan diri sendiri tentang apa kode yang tertulis tersebut (jika nantinya kode tersebut dibuka kembali di lain waktu). Penulisan komentar ada yang untuk komentar satu baris dan ada yang untuk lebih dari satu baris. Untuk komentar satu baris, dimulai dengan dua tanda forward slash atau satu tanda hash (#), keduanya merupakan cara untuk menulis komentar satu baris. Untuk yang lebih dari satu baris, dimulai dengan satu tanda forward slash diikuti dengan satu tanda bintang (*). Dan untuk menutup komentar tersebut, diawali dengan satu tanda bintang dan diikuti satu tanda forward slash."
+				},
+				{
+					"id" : "5",
+					"title" : "Variabel PHP",
+					"image_desc" : "https://muh-fajri.github.io/mastery_app_data/php_image/php_variabel.png",
+					"text_desc" : "Penulisan variabel pada PHP diawali dengan lambang dollar($) dan diikuti nama variabelnya. Aturan-aturan penulisan variabel pada PHP yaitu nama variabel harus dimulai dengan huruf atau lambang garis bawah (_). Nama variabel tidak boleh dimulai dengan angka, namun dapat memuat angka di dalamnya. Nama variabel hanya boleh memuat huruf, angka, dan garis bawah (A-Z, a-z, 0-9, dan _). Nama variabel di PHP bersifat sensitif terhadap huruf besar dan kecil."
 				}
 			]
 		}
